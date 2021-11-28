@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(0, 112, 210);
+}
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(62, 62, 60);
+}
+.app {
+    background-color: #fafaf9;
+    height: 100vh;
+    overflow: scroll;
+}
+
+nav {
+    
+    width: auto;
+    padding: 0;
+    background-color:#ffd700	;
+}
+
+footer {
+    margin-left: 165px;
+}
+
+.wrapper {
+    background-color: aliceblue;
+    width: auto;
+    margin: auto;
+    min-width: auto;
+}

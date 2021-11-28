@@ -1,0 +1,15 @@
+<template>
+	<div id="wrapper">
+		<header></header>
+		<nav>
+			<c-custom-nav></c-custom-nav>
+		</nav>
+		<main>
+			<template if:true={isDefaultTab}>
+				<!--Make sure to make the homepage the default tab-->
+				<c-custom-main></c-custom-main>
+			</template>
+
+		</main>
+	</div>
+</template>

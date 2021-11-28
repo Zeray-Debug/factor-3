@@ -1,0 +1,21 @@
+.c-container {
+    border: 1px solid #d8dde6;
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+}
+.page-section {
+    border: solid 1px #ccc;
+    padding: 1rem;
+}
+.page-header,
+.page-footer {
+    height: auto;
+}
+.page-main {
+    background: #f8f8f8;
+}
+.page-left,
+.page-right {
+    background: #f0efef;
+}

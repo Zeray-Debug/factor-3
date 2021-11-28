@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/zeray-debug.factor-3",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve veOFSn9OG125MU8YZR7u --open"
+  }
+}
